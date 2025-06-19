@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Analysis – Power BI Project
+# 🍷 Wine Quality Analysis
 
 ## 📊 Project Overview
 
